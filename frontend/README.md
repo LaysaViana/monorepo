@@ -129,4 +129,4 @@ yarn test --watch
 
 ## Desenvolvido por
 
-Laysa Viana
+Laysa Viana - 2025
